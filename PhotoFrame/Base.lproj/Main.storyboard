@@ -18,6 +18,12 @@
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zrX-QY-I8h">
                                 <rect key="frame" x="16" y="266" width="358" height="313"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="51CoL55Pi6L" translatesAutoresizingMaskIntoConstraints="NO" id="v9Z-cO-r2h">
+                                        <rect key="frame" x="11" y="15" width="337" height="283"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                </subviews>
                                 <color key="backgroundColor" red="0.14590549574946809" green="0.032514032743004677" blue="0.34278971878523679" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
                         </subviews>
@@ -30,4 +36,7 @@
             <point key="canvasLocation" x="20" y="79.620853080568722"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="51CoL55Pi6L" width="296" height="296"/>
+    </resources>
 </document>
